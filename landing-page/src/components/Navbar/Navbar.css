@@ -1,0 +1,39 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links-span, .leftnav-span{
+    display: inline-block;
+}
+
+.fa-dumbbell {
+    font-size: 20px;
+    color: rgb(184, 184, 184);
+}
+
+#bodyBpText{
+    margin-left: 5px;
+}
+
+.brandname-span {
+    display: flex;
+    align-items: center;
+    align-content: center;
+} 
+
+#links-list {
+    margin: 0px;
+}
+#links-list li {
+    display: inline-block;
+    margin-left: 20px;
+    text-decoration: none;
+}
+#links-list li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
